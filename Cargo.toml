@@ -7,7 +7,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-cuo-mod-sdk = { git = "https://github.com/ClassicUO/classicuo-mods-sdk", rev = "de00483" }
+cuo-mod-sdk = { git = "https://github.com/ClassicUO/classicuo-mods-sdk", rev = "9e7bbcf" }
 
 [lib]
 crate-type = ["cdylib", "rlib"]
